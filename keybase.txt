@@ -1,0 +1,54 @@
+://keybase.io/becoming_i
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://niakas.tk
+  * I am becoming_i (https://keybase.io/becoming_i) on keybase.
+  * I have a public key ASBlJqKWrTuAkl92zgmDskyqOPWzu4JL0cvEN54D2Q7SLAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01206526a296ad3b80925f76ce0983b24caa38f5b3bb824bd1cbc4379e03d90ed22c0a",
+      "host": "keybase.io",
+      "kid": "01206526a296ad3b80925f76ce0983b24caa38f5b3bb824bd1cbc4379e03d90ed22c0a",
+      "uid": "973bf7ca5230e68d6aefebb1f7390519",
+      "username": "becoming_i"
+    },
+    "merkle_root": {
+      "ctime": 1507644260,
+      "hash": "292da6f4f7a292ca3d873f7e656c828cddb5e433cb559a6b62565eaab9131b850627b2fd168c1764b51f3361b13c899bed86fe2e33102abf9801ff17c7027111",
+      "hash_meta": "c7d7b5d71f6c129ab79e72a265d4a8ada2697f9239d7b02d968b4492295a7443",
+      "seqno": 1552187
+    },
+    "service": {
+      "hostname": "niakas.tk",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.34"
+  },
+  "ctime": 1507644279,
+  "expire_in": 504576000,
+  "prev": "3b5d596c4eda1d47fa78395412c04703cb98f3b4d2fa228996cb099d58189bcc",
+  "seqno": 14,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgZSailq07gJJfds4Jg7JMqjj1s7uCS9HLxDeeA9kO0iwKp3BheWxvYWTFA0R7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNjUyNmEyOTZhZDNiODA5MjVmNzZjZTA5ODNiMjRjYWEzOGY1YjNiYjgyNGJkMWNiYzQzNzllMDNkOTBlZDIyYzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNjUyNmEyOTZhZDNiODA5MjVmNzZjZTA5ODNiMjRjYWEzOGY1YjNiYjgyNGJkMWNiYzQzNzllMDNkOTBlZDIyYzBhIiwidWlkIjoiOTczYmY3Y2E1MjMwZTY4ZDZhZWZlYmIxZjczOTA1MTkiLCJ1c2VybmFtZSI6ImJlY29taW5nX2kifSwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE1MDc2NDQyNjAsImhhc2giOiIyOTJkYTZmNGY3YTI5MmNhM2Q4NzNmN2U2NTZjODI4Y2RkYjVlNDMzY2I1NTlhNmI2MjU2NWVhYWI5MTMxYjg1MDYyN2IyZmQxNjhjMTc2NGI1MWYzMzYxYjEzYzg5OWJlZDg2ZmUyZTMzMTAyYWJmOTgwMWZmMTdjNzAyNzExMSIsImhhc2hfbWV0YSI6ImM3ZDdiNWQ3MWY2YzEyOWFiNzllNzJhMjY1ZDRhOGFkYTI2OTdmOTIzOWQ3YjAyZDk2OGI0NDkyMjk1YTc0NDMiLCJzZXFubyI6MTU1MjE4N30sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJuaWFrYXMudGsiLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4zNCJ9LCJjdGltZSI6MTUwNzY0NDI3OSwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiIzYjVkNTk2YzRlZGExZDQ3ZmE3ODM5NTQxMmMwNDcwM2NiOThmM2I0ZDJmYTIyODk5NmNiMDk5ZDU4MTg5YmNjIiwic2Vxbm8iOjE0LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQP1V0LiVSKdDRDPrHulWoUR2Jmoj/rqNEEWopCli1ndu5lYMPPkUMtRJqHe9Rdgr3Z897mEPrqXVoA2pnwH1Jg6oc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCC274PaK9foWW6eXelcCfYZH8z4wkRTSITa7tKl0IuCaaN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/becoming_i
+
+==================================================================
