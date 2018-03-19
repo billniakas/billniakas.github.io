@@ -1,11 +1,12 @@
-://keybase.io/becoming_i
+==================================================================
+https://keybase.io/becoming_i
 --------------------------------------------------------------------
 
 I hereby claim:
 
-  * I am an admin of https://niakas.tk
+  * I am an admin of https://billniakas.com
   * I am becoming_i (https://keybase.io/becoming_i) on keybase.
-  * I have a public key ASBlJqKWrTuAkl92zgmDskyqOPWzu4JL0cvEN54D2Q7SLAo
+  * I have a public key with fingerprint 006A BAD8 949D 4B20 EF90  D673 4D3F D503 38D3 AADB
 
 To do so, I am signing this object:
 
@@ -13,38 +14,63 @@ To do so, I am signing this object:
   "body": {
     "key": {
       "eldest_kid": "01206526a296ad3b80925f76ce0983b24caa38f5b3bb824bd1cbc4379e03d90ed22c0a",
+      "fingerprint": "006abad8949d4b20ef90d6734d3fd50338d3aadb",
       "host": "keybase.io",
-      "kid": "01206526a296ad3b80925f76ce0983b24caa38f5b3bb824bd1cbc4379e03d90ed22c0a",
+      "key_id": "4d3fd50338d3aadb",
+      "kid": "010148ad843d2ba9a0378dddf0f3639280e174902a2aa5bbe357d42b9d0a76477d890a",
       "uid": "973bf7ca5230e68d6aefebb1f7390519",
       "username": "becoming_i"
     },
     "merkle_root": {
-      "ctime": 1507644260,
-      "hash": "292da6f4f7a292ca3d873f7e656c828cddb5e433cb559a6b62565eaab9131b850627b2fd168c1764b51f3361b13c899bed86fe2e33102abf9801ff17c7027111",
-      "hash_meta": "c7d7b5d71f6c129ab79e72a265d4a8ada2697f9239d7b02d968b4492295a7443",
-      "seqno": 1552187
+      "ctime": 1521452002,
+      "hash_meta": "db2b89bd36da4b758a955dfe784585c9b9c6fe1b7754ead218b529bf39c1987a",
+      "seqno": 2255035
+    },
+    "revoke": {
+      "sig_ids": [
+        "d9eb72aa2ee2232b0e228561392b220062fe0468e49c428364973a655f7bf98f0f"
+      ]
     },
     "service": {
-      "hostname": "niakas.tk",
+      "hostname": "billniakas.com",
       "protocol": "https:"
     },
     "type": "web_service_binding",
     "version": 1
   },
-  "client": {
-    "name": "keybase.io go client",
-    "version": "1.0.34"
-  },
-  "ctime": 1507644279,
-  "expire_in": 504576000,
-  "prev": "3b5d596c4eda1d47fa78395412c04703cb98f3b4d2fa228996cb099d58189bcc",
-  "seqno": 14,
+  "ctime": 1521452067,
+  "expire_in": 157680000,
+  "prev": "5114e2849fc3c04247d7996dc01fcc99c558cde39f721096d444efd82219b5f8",
+  "seqno": 20,
   "tag": "signature"
 }
 
 which yields the signature:
 
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgZSailq07gJJfds4Jg7JMqjj1s7uCS9HLxDeeA9kO0iwKp3BheWxvYWTFA0R7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNjUyNmEyOTZhZDNiODA5MjVmNzZjZTA5ODNiMjRjYWEzOGY1YjNiYjgyNGJkMWNiYzQzNzllMDNkOTBlZDIyYzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNjUyNmEyOTZhZDNiODA5MjVmNzZjZTA5ODNiMjRjYWEzOGY1YjNiYjgyNGJkMWNiYzQzNzllMDNkOTBlZDIyYzBhIiwidWlkIjoiOTczYmY3Y2E1MjMwZTY4ZDZhZWZlYmIxZjczOTA1MTkiLCJ1c2VybmFtZSI6ImJlY29taW5nX2kifSwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE1MDc2NDQyNjAsImhhc2giOiIyOTJkYTZmNGY3YTI5MmNhM2Q4NzNmN2U2NTZjODI4Y2RkYjVlNDMzY2I1NTlhNmI2MjU2NWVhYWI5MTMxYjg1MDYyN2IyZmQxNjhjMTc2NGI1MWYzMzYxYjEzYzg5OWJlZDg2ZmUyZTMzMTAyYWJmOTgwMWZmMTdjNzAyNzExMSIsImhhc2hfbWV0YSI6ImM3ZDdiNWQ3MWY2YzEyOWFiNzllNzJhMjY1ZDRhOGFkYTI2OTdmOTIzOWQ3YjAyZDk2OGI0NDkyMjk1YTc0NDMiLCJzZXFubyI6MTU1MjE4N30sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJuaWFrYXMudGsiLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4zNCJ9LCJjdGltZSI6MTUwNzY0NDI3OSwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiIzYjVkNTk2YzRlZGExZDQ3ZmE3ODM5NTQxMmMwNDcwM2NiOThmM2I0ZDJmYTIyODk5NmNiMDk5ZDU4MTg5YmNjIiwic2Vxbm8iOjE0LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQP1V0LiVSKdDRDPrHulWoUR2Jmoj/rqNEEWopCli1ndu5lYMPPkUMtRJqHe9Rdgr3Z897mEPrqXVoA2pnwH1Jg6oc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCC274PaK9foWW6eXelcCfYZH8z4wkRTSITa7tKl0IuCaaN0YWfNAgKndmVyc2lvbgE=
+-----BEGIN PGP MESSAGE-----
+
+owFtk2toHUUYhk8uhSRGqxEqFMW4+sPSNMzOfY7GC1jaotUqKtYL27ltsz0nu8fd
+bWyMISb6o9YaI2rpDxUvRDDeaqyFKoqCIlWJ1rRViNGKKEkFi1RCkAjOBgMi7p9h
+Z97v/d7vGWb07IZSU93mq4838Knx6brP51TpzjcfFv2eSkyfV+73KnZpsVVjszyo
+RMYre8CHgBJIJRRUGqQ4EJCEjGoLBEcKYi0l4iFRSCkOsTK+VhojJixARgBrINRA
+eh1eGMXbbVpLozgvbAGVShousDBYQWBDAQxlCBsUGgIQ4gZJaZQr7E6yosKFUzKz
+nVHi9txPsBTvf/TLuYGPueuAkYFKCgkQ48aYEISIIgE5sD7DAkAJpSRKWUSYwVAJ
+AySjmDGXbSn3ziU7wZAKmZYEImApN1Ta0CrlhwwJQHxRCDObxrLHOrWyOulx8waR
+N9Dh9di0UrVBmiR5gVfnUSHyCfQxgQBAN6LMuoMem0tXaxRUXCiDqJFYMcKlIMSE
+lnFMONFCCU1D6yvGCLbSQJ8rAoUKkdC+4KyInNl748QrQ0gcGeISpLY3qdiieRa5
+UCbzynd5RnzYbxVz40NrIURQAbdwQn2HR0GXjMLQAky5xUJjyBHFDoOkxN2/CgV3
+KL17Bop2aW+kl+yLu1pmEFWrcSQrMut0MFyqWprkiU6q7qw7z2tZuWCT99UK8X1W
+Bf/YBCqKjWPnKnptmkVJ7Fg55X+wUdbh2V21KLVBVCgIoxy4r+hje50l8X1sIcci
+1EgDDDEzTAhqNPBDrYXQhHBtLBIhgz5wBxhjGxoOoS8UCfm/ODrTXG53no5eLPOd
+qfUGWh6pQ42luqbSRasuaSztePfbp569vv306Ils+X2tqC8eV6ml+dzlnV8bmkoz
+J0ca/Qe+OvNQ1w3z0husf3D3Bxtndu+BE/XPv3VgbqJ1cGTr6W8Sz2xac2zNBWs3
+/DQxs27XtmY6/OW1s7ctjv3csP/wWPDHoDwy9fv5Y99VZ/XUJ3UTj+397ND9m4aa
+zrrpx7tfvH1l69q2/eLS9o+7F8uv9h85cN15QcdwJLacmJOvnfr69R/avni/C80P
+bNu6anSjHHn58knee+HR9tX7NrTUFu+Qr4zPPvrSuqe94YtP2oGPVjT/2ZccOhW8
+c9nCc/Nti7c+8cv6/jeuePvMp09+Hw9dOUQOntNZ8fdO75hu3XPzb5PrVw8uPP7X
+CzcuXnM87jq88pmD+wYXxo9tbmi5Kh6dvmXy6Ja0772/AQ==
+=6kgb
+-----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
@@ -52,3 +78,4 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/becoming_i
 
 ==================================================================
+
