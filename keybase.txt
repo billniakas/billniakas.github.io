@@ -6,71 +6,47 @@ I hereby claim:
 
   * I am an admin of https://billniakas.com
   * I am becoming_i (https://keybase.io/becoming_i) on keybase.
-  * I have a public key with fingerprint 006A BAD8 949D 4B20 EF90  D673 4D3F D503 38D3 AADB
+  * I have a public key ASDWLxrgVRRhRKf0uPJtVmDipUbcNqxHKkTj6j0EE6xBWAo
 
 To do so, I am signing this object:
 
 {
   "body": {
     "key": {
-      "eldest_kid": "01206526a296ad3b80925f76ce0983b24caa38f5b3bb824bd1cbc4379e03d90ed22c0a",
-      "fingerprint": "006abad8949d4b20ef90d6734d3fd50338d3aadb",
+      "eldest_kid": "01204fd008f208ff4eedae30afa4a5ca4b7be4f68720ca1a67a8890b359271f3264d0a",
       "host": "keybase.io",
-      "key_id": "4d3fd50338d3aadb",
-      "kid": "010148ad843d2ba9a0378dddf0f3639280e174902a2aa5bbe357d42b9d0a76477d890a",
+      "kid": "0120d62f1ae055146144a7f4b8f26d5660e2a546dc36ac472a44e3ea3d0413ac41580a",
       "uid": "973bf7ca5230e68d6aefebb1f7390519",
       "username": "becoming_i"
     },
     "merkle_root": {
-      "ctime": 1521452002,
-      "hash_meta": "db2b89bd36da4b758a955dfe784585c9b9c6fe1b7754ead218b529bf39c1987a",
-      "seqno": 2255035
-    },
-    "revoke": {
-      "sig_ids": [
-        "d9eb72aa2ee2232b0e228561392b220062fe0468e49c428364973a655f7bf98f0f"
-      ]
+      "ctime": 1565105709,
+      "hash": "556a34fbd2ea5167eedb29736d9b25fd4fa78971797db522c14f27bbf5b480b435a4c77bc7f5ee86f03ba93bbca1c94e7edcec0d831d04cd8bacfe3faf9abb9e",
+      "hash_meta": "66039e8587ce8b5fc31226160d42a2a49f40b3349a3265d8689750c3d256036d",
+      "seqno": 5953676
     },
     "service": {
+      "entropy": "bxWVKsKJcuUcn0ems/zZQQiQ",
       "hostname": "billniakas.com",
       "protocol": "https:"
     },
     "type": "web_service_binding",
-    "version": 1
+    "version": 2
   },
-  "ctime": 1521452067,
-  "expire_in": 157680000,
-  "prev": "5114e2849fc3c04247d7996dc01fcc99c558cde39f721096d444efd82219b5f8",
-  "seqno": 20,
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.2.1"
+  },
+  "ctime": 1565105727,
+  "expire_in": 504576000,
+  "prev": "74e65828bc49ef4a433b699f6eb7b26e22c5b5bf04be1a4959dbf992754b4c9a",
+  "seqno": 34,
   "tag": "signature"
 }
 
 which yields the signature:
 
------BEGIN PGP MESSAGE-----
-
-owFtk2toHUUYhk8uhSRGqxEqFMW4+sPSNMzOfY7GC1jaotUqKtYL27ltsz0nu8fd
-bWyMISb6o9YaI2rpDxUvRDDeaqyFKoqCIlWJ1rRViNGKKEkFi1RCkAjOBgMi7p9h
-Z97v/d7vGWb07IZSU93mq4838Knx6brP51TpzjcfFv2eSkyfV+73KnZpsVVjszyo
-RMYre8CHgBJIJRRUGqQ4EJCEjGoLBEcKYi0l4iFRSCkOsTK+VhojJixARgBrINRA
-eh1eGMXbbVpLozgvbAGVShousDBYQWBDAQxlCBsUGgIQ4gZJaZQr7E6yosKFUzKz
-nVHi9txPsBTvf/TLuYGPueuAkYFKCgkQ48aYEISIIgE5sD7DAkAJpSRKWUSYwVAJ
-AySjmDGXbSn3ziU7wZAKmZYEImApN1Ta0CrlhwwJQHxRCDObxrLHOrWyOulx8waR
-N9Dh9di0UrVBmiR5gVfnUSHyCfQxgQBAN6LMuoMem0tXaxRUXCiDqJFYMcKlIMSE
-lnFMONFCCU1D6yvGCLbSQJ8rAoUKkdC+4KyInNl748QrQ0gcGeISpLY3qdiieRa5
-UCbzynd5RnzYbxVz40NrIURQAbdwQn2HR0GXjMLQAky5xUJjyBHFDoOkxN2/CgV3
-KL17Bop2aW+kl+yLu1pmEFWrcSQrMut0MFyqWprkiU6q7qw7z2tZuWCT99UK8X1W
-Bf/YBCqKjWPnKnptmkVJ7Fg55X+wUdbh2V21KLVBVCgIoxy4r+hje50l8X1sIcci
-1EgDDDEzTAhqNPBDrYXQhHBtLBIhgz5wBxhjGxoOoS8UCfm/ODrTXG53no5eLPOd
-qfUGWh6pQ42luqbSRasuaSztePfbp569vv306Ils+X2tqC8eV6ml+dzlnV8bmkoz
-J0ca/Qe+OvNQ1w3z0husf3D3Bxtndu+BE/XPv3VgbqJ1cGTr6W8Sz2xac2zNBWs3
-/DQxs27XtmY6/OW1s7ctjv3csP/wWPDHoDwy9fv5Y99VZ/XUJ3UTj+397ND9m4aa
-zrrpx7tfvH1l69q2/eLS9o+7F8uv9h85cN15QcdwJLacmJOvnfr69R/avni/C80P
-bNu6anSjHHn58knee+HR9tX7NrTUFu+Qr4zPPvrSuqe94YtP2oGPVjT/2ZccOhW8
-c9nCc/Nti7c+8cv6/jeuePvMp09+Hw9dOUQOntNZ8fdO75hu3XPzb5PrVw8uPP7X
-CzcuXnM87jq88pmD+wYXxo9tbmi5Kh6dvmXy6Ja0772/AQ==
-=6kgb
------END PGP MESSAGE-----
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg1i8a4FUUYUSn9LjybVZg4qVG3DasRypE4+o9BBOsQVgKp3BheWxvYWTESpcCIsQgdOZYKLxJ70pDO2mfbreybiLFtb8EvhpJWdv5knVLTJrEIMOZtPjoe2A6CYc6nQ3wTCXqkfcTBBuNLpF0SVKRQZnHAgHCo3NpZ8RAHo4dmTOuC5LEMeCE0kTTcDxv349KT4y8lhuq7BbtSZ81/09xC3bcpDf21iLejBviB/vh2gJO9tEj2QYFBNDeBahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEII45F8JTq6cA9ql/H18zhX/uYYtdH7vjleKNEWqAUgmio3RhZ80CAqd2ZXJzaW9uAQ==
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
@@ -78,4 +54,3 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/becoming_i
 
 ==================================================================
-
